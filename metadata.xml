@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="https://wofsauge.github.io/isaac-xml-validator/xsd/metadata.xsd" ?>
+<metadata>
+	<name>7Virtues</name>
+	<directory>7virtues</directory>
+	<description/>
+	<author>Gerios</author>
+	<version>1.0</version>
+	<visibility/>
+</metadata>
+

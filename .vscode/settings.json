@@ -1,0 +1,8 @@
+{
+    "boi-lua.repentogonEnabled": true,
+    "boi-lua.workspaceSettings": true,
+    "files.associations": {
+        "*.anm2": "xml",
+        ".anm2": "xml"
+    }
+}
