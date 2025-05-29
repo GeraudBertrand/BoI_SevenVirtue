@@ -1,0 +1,3 @@
+local humilityCharacter = {}
+
+return humilityCharacter

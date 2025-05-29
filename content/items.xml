@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+  <active id="2" name="Greed Hand" gfx="damage_potion_item.png" description="Anything before my sight is MINE !!" quality="4" maxcharges="5" chargetype="normal"/>
+</items>

@@ -1,0 +1,3 @@
+local kindnessCharacter = {}
+
+return kindnessCharacter

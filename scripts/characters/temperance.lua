@@ -1,0 +1,3 @@
+local temperanceCharacter = {}
+
+return temperanceCharacter

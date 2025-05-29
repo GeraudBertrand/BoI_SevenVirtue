@@ -1,0 +1,3 @@
+local patienceCharacter = {}
+
+return patienceCharacter

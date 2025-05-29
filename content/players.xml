@@ -1,0 +1,23 @@
+<players root="gfx/characters/costumes" portraitroot="gfx/ui/stage" nameimageroot="gfx/ui/boss/">
+  <player name="Charity" 
+    skin="character_charity.png" 
+    nameimage="playername_charity.png" 
+    hp="2" 
+    armor="4" 
+    coins="3" 
+    keys="1" 
+    portrait="playerportrait_charity.png" 
+    skinColor="0" 
+  />
+  <player name="Greed"
+    skin="character_charity_b.png" 
+    nameimage="playername_charity.png" 
+    hp="2" 
+    black="4"
+    trinket="68"
+    portrait="playerportrait_charity_b.png" 
+    bSkinParent="Charity" 
+    costumeSuffix="charityb" 
+    tainted="true"
+  />
+</players>
